@@ -1,3 +1,5 @@
+### Alunos: Thiago Caetano e Júlia Souza
+
 # ESTRUTURAS DE CONTROLE DO FLUXO DE EXECUÇÃO
 
 As estruturas de controle são componentes fundamentais na programação, responsáveis por definir a ordem e a lógica de execução dos comandos dentro de um programa. Elas permitem que o fluxo de execução siga diferentes caminhos, dependendo das condições ou repetições definidas pelo programador. As principais estruturas de controle são: Sequenciais, de Decisão e de Repetição.
@@ -52,3 +54,5 @@ Hoje, discutimos os **principais conceitos de controle de fluxo** em programaç�
 ### Considerações Finais
 
 As estruturas de controle são essenciais para qualquer tipo de programação, pois permitem o fluxo dinâmico de execução de um programa. O uso adequado dessas estruturas, como sequenciais, de decisão e repetição, permite a criação de programas eficientes e flexíveis. No entanto, o programador deve ter cuidado com laços infinitos e garantir que as condições de controle sejam bem definidas para evitar erros durante a execução.
+
+
